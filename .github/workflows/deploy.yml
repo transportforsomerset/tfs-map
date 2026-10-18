@@ -1,6 +1,7 @@
 name: 2.0 - Deploy Repo
 
 on:
+  push:  
   workflow_call:
   workflow_dispatch: 
 
